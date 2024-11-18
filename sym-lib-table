@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "Esp32SF-Test")(type "KiCad")(uri "${KIPRJMOD}/Esp32SF-Test.kicad_sym")(options "")(descr ""))
-  (lib (name "created")(type "KiCad")(uri "${KIPRJMOD}/created.kicad_sym")(options "")(descr ""))
-)

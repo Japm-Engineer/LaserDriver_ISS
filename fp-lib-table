@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name "PiLaserV2")(type "KiCad")(uri "D:/Users/jpedr/Documents/PHD/Schematic/PILaserV3.pretty")(options "")(descr "")(disabled))
-  (lib (name "SparksunESP32")(type "KiCad")(uri "D:/Users/jpedr/Documents/PHD/Schematic/SparksunESP32.pretty")(options "")(descr ""))
-  (lib (name "pilaser")(type "KiCad")(uri "D:/Users/jpedr/Documents/PHD/Schematic/pilaser.pretty")(options "")(descr ""))
-  (lib (name "Created")(type "KiCad")(uri "D:/Users/jpedr/Documents/PHD/Schematic/Created.pretty")(options "")(descr ""))
-)
